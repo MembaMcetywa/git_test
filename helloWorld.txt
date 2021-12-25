@@ -1,0 +1,1 @@
+This is just some text, i am in fact trying to become a world class web developer in about 3 months. I aim to gain a solid understanding of Javascript before moving to what I actually want to be good at and that is React.
